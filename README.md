@@ -87,18 +87,22 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [MahsaNG_15_arm64-v8a](https://github.com/MonoMojo1/downloader5/tree/main/downloads/MahsaNG_15_arm64-v8a)
 
 2. [Turnip_26.2.0_R3_OneUI](https://github.com/MonoMojo1/downloader5/tree/main/downloads/Turnip_26.2.0_R3_OneUI)
 
-3. [bionic-vanilla](https://github.com/MonoMojo1/downloader5/tree/main/downloads/bionic-vanilla)
+3. [WinNative-Standard-release](https://github.com/MonoMojo1/downloader5/tree/main/downloads/WinNative-Standard-release)
 
-4. [bionic-vanilla_star_20418](https://github.com/MonoMojo1/downloader5/tree/main/downloads/bionic-vanilla_star_20418)
+4. [bionic-vanilla](https://github.com/MonoMojo1/downloader5/tree/main/downloads/bionic-vanilla)
 
-5. [proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp](https://github.com/MonoMojo1/downloader5/tree/main/downloads/proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp)
+5. [bionic-vanilla_star_20418](https://github.com/MonoMojo1/downloader5/tree/main/downloads/bionic-vanilla_star_20418)
 
-6. [v2rayNG_2.1.5_arm64-v8a](https://github.com/MonoMojo1/downloader5/tree/main/downloads/v2rayNG_2.1.5_arm64-v8a)
+6. [proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp](https://github.com/MonoMojo1/downloader5/tree/main/downloads/proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp)
+
+7. [v2rayNG_2.1.5_arm64-v8a](https://github.com/MonoMojo1/downloader5/tree/main/downloads/v2rayNG_2.1.5_arm64-v8a)
 
 ---
