@@ -99,6 +99,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [1.37](https://github.com/MonoMojo1/downloader5/tree/main/downloads/1.37)
@@ -121,8 +123,10 @@ a
 
 10. [hiddify-config](https://github.com/MonoMojo1/downloader5/tree/main/downloads/hiddify-config)
 
-11. [proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp](https://github.com/MonoMojo1/downloader5/tree/main/downloads/proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp)
+11. [proton-wine-11.0-1-arm64ec.wcp](https://github.com/MonoMojo1/downloader5/tree/main/downloads/proton-wine-11.0-1-arm64ec.wcp)
 
-12. [v2rayNG_2.1.5_arm64-v8a](https://github.com/MonoMojo1/downloader5/tree/main/downloads/v2rayNG_2.1.5_arm64-v8a)
+12. [proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp](https://github.com/MonoMojo1/downloader5/tree/main/downloads/proton-wine-proton-bleeding-edge-20260414-5edc831-arm64ec.wcp)
+
+13. [v2rayNG_2.1.5_arm64-v8a](https://github.com/MonoMojo1/downloader5/tree/main/downloads/v2rayNG_2.1.5_arm64-v8a)
 
 ---
